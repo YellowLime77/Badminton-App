@@ -1,0 +1,15 @@
+C:\Users\matth\Desktop\Badminton App Final\BadmintonApp.exe
+C:\Users\matth\Desktop\Badminton App Final\BadmintonApp.dll
+C:\Users\matth\Desktop\Badminton App Final\BadmintonApp.deps.json
+C:\Users\matth\Desktop\Badminton App Final\BadmintonApp.runtimeconfig.json
+C:\Users\matth\Desktop\Badminton App Final\BadmintonApp.pdb
+C:\Users\matth\Desktop\Badminton App Final\Apache.Arrow.dll
+C:\Users\matth\Desktop\Badminton App Final\Microsoft.Data.Analysis.dll
+C:\Users\matth\Desktop\Badminton App Final\Microsoft.ML.DataView.dll
+C:\Users\matth\Desktop\Badminton App Final\System.Data.SqlClient.dll
+C:\Users\matth\Desktop\Badminton App Final\System.Windows.Forms.DataVisualization.dll
+C:\Users\matth\Desktop\Badminton App Final\runtimes\win-arm64\native\sni.dll
+C:\Users\matth\Desktop\Badminton App Final\runtimes\win-x64\native\sni.dll
+C:\Users\matth\Desktop\Badminton App Final\runtimes\win-x86\native\sni.dll
+C:\Users\matth\Desktop\Badminton App Final\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matth\Desktop\Badminton App Final\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
